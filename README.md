@@ -26,9 +26,6 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 
    ```bash
    npm install
-ou `yarn`
-
-   
 
 ## Execução
 
@@ -36,3 +33,5 @@ ou `yarn`
 
    ```bash
    npm start
+
+2. A aplicação será aberta em seu navegador padrão no endereço http://localhost:3000.
