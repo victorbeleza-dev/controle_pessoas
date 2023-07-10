@@ -26,9 +26,7 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 
    ```bash
    npm install
-   
-ou ```bash
-   yarn
+ou `yarn`
 
    
 
