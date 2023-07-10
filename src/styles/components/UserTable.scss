@@ -1,0 +1,56 @@
+.table-container {
+    width: 100%;
+    min-width: 595px;
+    margin-bottom: 20px;
+    overflow-x: auto;
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+}
+
+.table {
+    overflow: hidden;
+    width: 100%;
+    border-radius: 10px;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.table th,
+.table td {
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.table thead th {
+    background-color: #02bdaa;
+    color: #ffffff;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.table tbody tr:nth-child(odd) {
+    background-color: #cfcfcf;
+}
+
+.usertable-button-action-delete{
+    margin: 3px 7px;
+    color: rgb(255, 47, 47);
+}
+
+.usertable-button-action-delete:hover{
+    cursor: pointer;
+    opacity: 70%;
+}
+
+.usertable-button-action-edit{
+    margin: 3px 4px;
+    color: rgb(51, 51, 51);
+}
+
+.usertable-button-action-edit:hover{
+    cursor: pointer;
+    opacity: 70%;
+}

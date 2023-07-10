@@ -1,0 +1,28 @@
+.homepage-container{
+    background-color: #b9b9b9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.homepage-content{
+    height: 100%;
+}
+
+.homepage-button-add{
+    position: fixed;
+    bottom: 60px;
+    right: 100px;
+    color: #00c8b3;
+    background-color: white;
+    border-radius: 48px;
+    width: 60px;
+    height: 60px;
+}
+
+.homepage-button-add:hover{
+    cursor: pointer;
+    opacity: 70%;
+}
