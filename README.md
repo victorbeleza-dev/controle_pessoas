@@ -20,7 +20,6 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 
    ```bash
    cd controle_pessoas
-   
 
 3. Instale as dependências do projeto utilizando o npm:
 
