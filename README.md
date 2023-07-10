@@ -26,15 +26,15 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 
    ```bash
    npm install
+   
+ou ```bash
+   yarn
 
-ou
-
-   ```bash
-      yarn
+   
 
 ## Execução
 
 1. Após a conclusão da etapa de configuração, você pode iniciar a aplicação React com o seguinte comando:
 
-   ```
+   ```bash
    npm start
