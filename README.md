@@ -15,3 +15,13 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 
    ```bash
    git clone https://github.com/victorbeleza-dev/controle_pessoas.git
+   
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd controle_pessoas
+
+3. Instale as dependências do projeto utilizando o npm:
+
+   ```bash
+   npm install
